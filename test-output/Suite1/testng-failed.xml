@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <parameter name="browser" value="Chrome"/>
+  <test name="Create-Project(failed)">
+    <classes>
+      <class name="com.Actitime.Sel.TestCase9Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase9Test -->
+      <class name="com.Actitime.Sel.TestCase8Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="closeTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase8Test -->
+      <class name="com.Actitime.Sel.TestCase3Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase3Test -->
+      <class name="com.Actitime.Sel.TestCase4Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase4Test -->
+      <class name="com.Actitime.Sel.TestCase2Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase2Test -->
+      <class name="com.Actitime.Sel.TestCase6Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase6Test -->
+      <class name="com.Actitime.Sel.TestCase1Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase1Test -->
+      <class name="com.Actitime.Sel.TestCase7Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="closeTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase7Test -->
+      <class name="com.Actitime.Sel.TestCase5Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="execTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase5Test -->
+      <class name="com.Actitime.Sel.TestCase10Test">
+        <methods>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase10Test -->
+    </classes>
+  </test> <!-- Create-Project(failed) -->
+  <test name="Edit-Project(failed)">
+    <classes>
+      <class name="com.Actitime.Sel.TestCase9Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase9Test -->
+      <class name="com.Actitime.Sel.TestCase8Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="closeTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase8Test -->
+      <class name="com.Actitime.Sel.TestCase3Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase3Test -->
+      <class name="com.Actitime.Sel.TestCase4Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase4Test -->
+      <class name="com.Actitime.Sel.TestCase2Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase2Test -->
+      <class name="com.Actitime.Sel.TestCase6Test">
+        <methods>
+          <include name="execTest1"/>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase6Test -->
+      <class name="com.Actitime.Sel.TestCase1Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase1Test -->
+      <class name="com.Actitime.Sel.TestCase7Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="closeTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase7Test -->
+      <class name="com.Actitime.Sel.TestCase5Test">
+        <methods>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase5Test -->
+      <class name="com.Actitime.Sel.TestCase10Test">
+        <methods>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase10Test -->
+    </classes>
+  </test> <!-- Edit-Project(failed) -->
+  <test name="Delete-Project(failed)">
+    <classes>
+      <class name="com.Actitime.Sel.TestCase9Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase9Test -->
+      <class name="com.Actitime.Sel.TestCase8Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="closeTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase8Test -->
+      <class name="com.Actitime.Sel.TestCase3Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase3Test -->
+      <class name="com.Actitime.Sel.TestCase4Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase4Test -->
+      <class name="com.Actitime.Sel.TestCase2Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase2Test -->
+      <class name="com.Actitime.Sel.TestCase6Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase6Test -->
+      <class name="com.Actitime.Sel.TestCase1Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase1Test -->
+      <class name="com.Actitime.Sel.TestCase7Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="execTest1"/>
+          <include name="closeTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase7Test -->
+      <class name="com.Actitime.Sel.TestCase5Test">
+        <methods>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase5Test -->
+      <class name="com.Actitime.Sel.TestCase10Test">
+        <methods>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase10Test -->
+    </classes>
+  </test> <!-- Delete-Project(failed) -->
+  <test name="Edit-Task(failed)">
+    <classes>
+      <class name="com.Actitime.Sel.TestCase9Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+          <include name="execTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase9Test -->
+      <class name="com.Actitime.Sel.TestCase8Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="closeTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase8Test -->
+      <class name="com.Actitime.Sel.TestCase3Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase3Test -->
+      <class name="com.Actitime.Sel.TestCase4Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase4Test -->
+      <class name="com.Actitime.Sel.TestCase2Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase2Test -->
+      <class name="com.Actitime.Sel.TestCase6Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase6Test -->
+      <class name="com.Actitime.Sel.TestCase1Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase1Test -->
+      <class name="com.Actitime.Sel.TestCase7Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="closeTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase7Test -->
+      <class name="com.Actitime.Sel.TestCase5Test">
+        <methods>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase5Test -->
+      <class name="com.Actitime.Sel.TestCase10Test">
+        <methods>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase10Test -->
+    </classes>
+  </test> <!-- Edit-Task(failed) -->
+  <test name="Delete-Task(failed)">
+    <classes>
+      <class name="com.Actitime.Sel.TestCase9Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase9Test -->
+      <class name="com.Actitime.Sel.TestCase8Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="closeTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase8Test -->
+      <class name="com.Actitime.Sel.TestCase3Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase3Test -->
+      <class name="com.Actitime.Sel.TestCase4Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase4Test -->
+      <class name="com.Actitime.Sel.TestCase2Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase2Test -->
+      <class name="com.Actitime.Sel.TestCase6Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase6Test -->
+      <class name="com.Actitime.Sel.TestCase1Test">
+        <methods>
+          <include name="closeTest1"/>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase1Test -->
+      <class name="com.Actitime.Sel.TestCase7Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="closeTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase7Test -->
+      <class name="com.Actitime.Sel.TestCase5Test">
+        <methods>
+          <include name="startWebDriver"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase5Test -->
+      <class name="com.Actitime.Sel.TestCase10Test">
+        <methods>
+          <include name="startWebDriver"/>
+          <include name="execTest1"/>
+        </methods>
+      </class> <!-- com.Actitime.Sel.TestCase10Test -->
+    </classes>
+  </test> <!-- Delete-Task(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

@@ -1,0 +1,54 @@
+<suite name="Suite1" verbose="1" parallel="false">
+	<test name="Login">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="com.Actitime.Sel.TestCase1Test" />
+		</classes>
+	</test>
+	<test name="Create-Customer">
+	<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="com.Actitime.Sel.TestCase2Test" />
+		</classes>
+	</test>
+	<test name="Edit-Customer">
+		<classes>
+			<class name="com.Actitime.Sel.TestCase3Test" />
+		</classes>
+	</test>
+	<test name="Delete-Customer">
+		<classes>
+			<class name="com.Actitime.Sel.TestCase4Test" />
+		</classes>
+	</test>
+	<test name="Create-Project">
+		<classes>
+			<class name="com.Actitime.Sel.TestCase5Test" />
+		</classes>
+	</test>
+	<test name="Edit-Project">
+		<classes>
+			<class name="com.Actitime.Sel.TestCase6Test" />
+		</classes>
+	</test>
+	<test name="Delete-Project">
+		<classes>
+			<class name="com.Actitime.Sel.TestCase7Test" />
+		</classes>
+	</test>
+	<test name="Create-Task">
+		<classes>
+			<class name="com.Actitime.Sel.TestCase8Test" />
+		</classes>
+	</test>
+	<test name="Edit-Task">
+		<classes>
+			<class name="com.Actitime.Sel.TestCase9Test" />
+		</classes>
+	</test>
+	<test name="Delete-Task">
+		<classes>
+			<class name="com.Actitime.Sel.TestCase10Test" />
+		</classes>
+	</test>
+</suite>
